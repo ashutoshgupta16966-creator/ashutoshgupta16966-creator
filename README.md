@@ -7,6 +7,7 @@
 - Data Structures & Algorithms
 - AI/ML
 - Data Analytics
+- Git & GitHub
 
 ## 💻 Interests
 - Artificial Intelligence
