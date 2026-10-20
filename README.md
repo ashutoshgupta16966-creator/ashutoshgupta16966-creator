@@ -1,7 +1,8 @@
 # Hi 👋, I'm Ashutosh Gupta
 
--🎓 B.Tech CSE Student at G.L Bajaj Group of Institutions, Mathura
--🌐 My Portfolio : https://my-portfolio-3nnh.onrender.com
+🎓 B.Tech CSE Student at G.L Bajaj Group of Institutions, Mathura
+
+🌐 My Portfolio : https://my-portfolio-3nnh.onrender.com
 
 ## 🚀 Currently Learning
 - Python
