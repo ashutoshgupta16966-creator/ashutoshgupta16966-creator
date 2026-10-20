@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ashutosh Gupta
 
 🎓 B.Tech CSE Student
-🌐 My Portfolio: my-portfolio-3nnh.onrender.com
+🌐 My Portfolio : https://my-portfolio-3nnh.onrender.com
 
 ## 🚀 Currently Learning
 - Python
